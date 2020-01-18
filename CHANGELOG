@@ -1,0 +1,9 @@
+v 0.1b
+
+    Added:
+        - Init repo
+        - Added Type of Requests: Query
+        - Builder for formatting response
+        - Type of Requests: Series
+        - Type of Requests: Query
+
